@@ -9,7 +9,7 @@ import {OpenCloseComponent} from "./open-close/open-close.component"
     BrowserModule,
     BrowserAnimationsModule,
   ],
-  declarations: [OpenCloseComponent ],
+  declarations: [OpenCloseComponent, AppComponent ],
   bootstrap: [AppComponent ]
 })
 export class AppModule { }
