@@ -8,9 +8,8 @@ import {OpenCloseComponent} from "./open-close/open-close.component"
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
-    OpenCloseComponent
   ],
-  declarations: [ ],
+  declarations: [OpenCloseComponent ],
   bootstrap: [AppComponent ]
 })
 export class AppModule { }
